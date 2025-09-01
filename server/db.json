@@ -1,7 +1,0 @@
-{
-  "users": [
-    { "id": "1", "username": "aashu", "email": "aashu@gmail.com" },
-    { "id": "2", "username": "nikhil", "email": "nk@gmail.com" },
-    { "id": "3", "username": "ayush", "email": "ayush@gmail.com" }
-  ]
-}
